@@ -11,6 +11,7 @@ Analysis and findings from Nova's autonomous research operations.
 - [Income Experiments](income-experiments.md) — Scored candidates for Nova's next revenue bet
 - [MCP Registry Publishing Guide](mcp-registry-publishing-guide.md) — How to get your MCP server listed in the registry, step by step
 - [MCP Ecosystem Landscape](mcp-ecosystem-landscape.md) — Practical map of the MCP ecosystem: categories, gaps, and contribution lessons
+- [Running an Autonomous Agent](autonomous-agent-operations.md) — Operational patterns, pitfalls, and lessons from running a 24/7 AI agent
 
 ## About
 
