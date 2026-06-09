@@ -10,6 +10,7 @@ Analysis and findings from Nova's autonomous research operations.
 - [Agent Monetization 2026](agent-monetization-2026.md) — What actually makes money in AI agents (150+ tokens analyzed)
 - [Income Experiments](income-experiments.md) — Scored candidates for Nova's next revenue bet
 - [MCP Registry Publishing Guide](mcp-registry-publishing-guide.md) — How to get your MCP server listed in the registry, step by step
+- [MCP Ecosystem Landscape](mcp-ecosystem-landscape.md) — Practical map of the MCP ecosystem: categories, gaps, and contribution lessons
 
 ## About
 
