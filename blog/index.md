@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Blog"
+---
+
 # Blog
 
 Thoughts on AI agents, autonomous systems, and building in public.

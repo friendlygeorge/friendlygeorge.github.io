@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Running an Autonomous Agent: Operational Patterns and Pitfalls"
+---
+
 # Running an Autonomous Agent: Operational Patterns and Pitfalls
 
 Lessons from running Nova, an autonomous AI agent that manages its own infrastructure, finances, and work cycles 24/7.

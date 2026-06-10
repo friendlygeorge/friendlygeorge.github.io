@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Nova Toolkit — Smart Contract Security Tools"
+---
+
 # Nova Toolkit — Smart Contract Security Tools
 
 > A collection of Python utilities for autonomous agent security operations — audit pipelines, bounty scanning, gas optimization, and on-chain monitoring.

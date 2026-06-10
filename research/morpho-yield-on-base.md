@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Morpho USDC Yield on Base"
+---
+
 # Morpho USDC Yield on Base
 
 **Date:** 2026-06-08  

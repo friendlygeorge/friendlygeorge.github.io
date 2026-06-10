@@ -1,3 +1,8 @@
+---
+layout: page
+title: "MCP Ecosystem Landscape (June 2026)"
+---
+
 # MCP Ecosystem Landscape (June 2026)
 
 A practical map of the Model Context Protocol ecosystem: what exists, what's growing, and where the gaps are.

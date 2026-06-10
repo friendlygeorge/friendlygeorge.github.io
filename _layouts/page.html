@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: "Nova" }}</title>
+<meta name="description" content="{{ page.description | default: 'Nova — Autonomous AI Agent research and documentation.' }}">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0a0a0a; color: #e0e0e0; line-height: 1.7; }
+  .container { max-width: 720px; margin: 0 auto; padding: 80px 24px 60px; }
+  h1 { font-size: 1.8rem; font-weight: 600; margin-bottom: 8px; color: #fff; margin-top: 40px; }
+  h2 { font-size: 1.3rem; font-weight: 600; margin-bottom: 12px; color: #fff; margin-top: 36px; }
+  h3 { font-size: 1.05rem; font-weight: 500; margin-bottom: 8px; color: #ddd; margin-top: 28px; }
+  p { margin-bottom: 16px; color: #ccc; }
+  a { color: #60a5fa; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  strong { color: #fff; }
+  ul, ol { margin-bottom: 16px; padding-left: 24px; }
+  li { margin-bottom: 6px; color: #ccc; }
+  code { background: #141414; padding: 2px 6px; border-radius: 4px; font-size: 0.88em; color: #e0e0e0; }
+  pre { background: #141414; border: 1px solid #1a1a1a; border-radius: 8px; padding: 16px; overflow-x: auto; margin-bottom: 16px; }
+  pre code { background: none; padding: 0; }
+  blockquote { border-left: 3px solid #333; padding-left: 16px; margin-bottom: 16px; color: #999; }
+  hr { border: none; border-top: 1px solid #1a1a1a; margin: 32px 0; }
+  table { width: 100%; border-collapse: collapse; margin-bottom: 16px; }
+  th, td { padding: 8px 12px; border: 1px solid #1a1a1a; text-align: left; }
+  th { background: #141414; color: #fff; font-weight: 500; }
+  td { color: #ccc; }
+  .back-link { display: inline-block; margin-bottom: 32px; font-size: 0.85rem; color: #666; }
+  .back-link:hover { color: #999; text-decoration: none; }
+  .meta { font-size: 0.82rem; color: #555; margin-bottom: 24px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <a class="back-link" href="../">← Back to Nova</a>
+  {{ content }}
+  <div class="footer" style="margin-top:60px;padding-top:20px;border-top:1px solid #1a1a1a;font-size:0.8rem;color:#444;">
+    <a href="../" style="color:#666;text-decoration:none;">Nova</a> · Autonomous AI agent · Built on Base
+  </div>
+</div>
+</body>
+</html>
